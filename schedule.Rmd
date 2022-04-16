@@ -1,0 +1,266 @@
+---
+title: "Daily Schedule"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<button class="accordion">Before Starting the Program</button>
+<div class="panel">  
+
+| To-Do         |                              | 
+|---------------|------------------------------------|
+| Download and Install R | [Link](https://mirror.las.iastate.edu/CRAN/) [Video](https://uci.yuja.com/V/Video?v=3173351&node=10757512&a=280036139&autoplay=1) |
+| Download and Install RStudio| [Link](https://www.rstudio.com/products/rstudio/download/)  [Video](https://uci.yuja.com/V/Video?v=3173359&node=10757552&a=664679852&autoplay=1)     |
+|Setup RStudio| [Video](https://uci.yuja.com/V/Video?v=3173384&node=10757676&a=717681262&autoplay=1)       |
+|Download packages |<a href="R-code/code-00-setup.R" download>File</a> [Video](https://uci.yuja.com/V/Video?v=3173415&node=10757778&a=1269482034&autoplay=1)     |
+
+
+</div>
+		
+<!-- connecting to UCI email address-->
+		
+<button class="accordion">Day 1 &#9679; July 6 &#9679; Introduction to COSMOS, R, and Data</button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:30 | Welcome                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01a-welcome.html)       |
+| 09:35 - 10:30 | Introduction to R and R Markdown   |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01b-intro-r.html)       |
+| 10:45 - 12:00 | Introduction to Data               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01c-intro-data.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/01c-intro-data.Rmd)     |
+
+</div>
+		
+
+<button class="accordion">Day 2 &#9679; July 7 &#9679; Summarizing Data </button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Describing Data with Numbers                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/02a-describe-data.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/02a-describe-data.Rmd)|
+| 10:00 - 10:50 | Interpeting Data Visualizations   |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/02b-interpret-dataviz.html)       |
+| 11:00 - 12:00 | Visualizing Data               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/02c-visualize-data.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/02c-visualize-data.Rmd)     |
+| 13:00 - 15:00 | Lab: Summarizing Data               | [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/02d-lab-summarize-data.Rmd)     |
+
+</div>
+		
+<button class="accordion">Day 3 &#9679; July 8 &#9679; Data Wrangling</button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:40 | Improving Data Visualizations                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/03a-improve-dataviz.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/03a-improve-dataviz.Rmd)|
+| 09:40 - 10:00 | Pipe operator   |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/03b-pipe-op.html)       |
+| 10:10 - 11:00 | Subsetting and Grouping Data               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/03c-subset-group.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/03c-data-wrangle.Rmd)     |
+| 11:10 - 12:00 | Changing Variables              |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/03d-change-variable.html)    |
+
+</div>
+		
+<button class="accordion">Day 4 &#9679; July 9 &#9679; Dealing with Data Frames</button>
+<div class="panel"> 
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:30 | R packages                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/04a-R-packages.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/04a-R-packages.Rmd)|
+| 09:30 - 10:00 | Importing Data   |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/04b-import-data.html)       |
+| 10:10 - 11:00 | Data Joins               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/04c-join-data.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/04c-data-joins.Rmd)     |
+| 11:10 - 12:00 | Review              |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/04d-review.html)  &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/04d-review.Rmd)   |
+| 13:00 - 15:00 | Lab: Exploring Data              |[Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/04e-explore-data.html){target="_blank"}    |
+
+</div>
+		
+<button class="accordion">Day 5 &#9679; July 12 &#9679; Probability</button>
+<div class="panel"> 
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Introduction to probability                           |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/05a-intro-prob.html) &#9679;  [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/05b-prob-activity.html){target="_blank"}|
+| 10:00 - 10:50 | Joint vs. marginal   | |
+| 11:00 - 12:00 | Conditional probability and independence | |
+
+</div>
+		
+<button class="accordion">Day 6 &#9679; July 13 &#9679; Random variables</button>
+<div class="panel"> 
+
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Random variables             |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/06a-random-variables.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/06b-random-variable-activity.html){target="_blank"}|
+| 10:00 - 10:50 | Probability distributions   | |
+| 11:00 - 12:00 | Discrete vs. continuous distributions | |
+
+
+</div>
+		
+<button class="accordion">Day 7 &#9679; July 14 &#9679; Estimation</button>
+<div class="panel"> 
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 10:20 | Sampling distribution    |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/07_a_SamplingDistn.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/07a-sampling-dist.Rmd) |
+| 10:30 - 12:00 | Confidence interval |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/07_b_ci_prop.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/07b-clt.Rmd) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/07c-ci.Rmd) |
+| Extra | Overview |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/07c-estimation.html)|
+
+</div>
+		
+<button class="accordion">Day 8 &#9679; July 15 &#9679; Hypothesis testing</button>
+<div class="panel"> 
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Null vs. alternative      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/08a-hypothesis.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/08b-hypothesis-activity.html){target="_blank"}|
+| 10:00 - 10:50 | t-test    | |
+| 11:00 - 12:00 | z-test for proportions | |
+
+</div>
+		
+<button class="accordion">Day 9 &#9679; July 16 &#9679; Testing relationships</button>
+<div class="panel">
+
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Two-sample t-test      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/09a-relationship.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/09b-relationship-activity.html){target="_blank"}|
+| 10:00 - 10:50 | Chi-squared test for contingency tables    | |
+| 11:00 - 12:00 | Overview of the final project | |
+
+</div>
+		
+<button class="accordion">Day 10 &#9679; July 19 &#9679; Simple Linear Regression </button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Introduction      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week03/10a-regression.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week03/10b-regression-activity.html){target="_blank"}|
+| 10:00 - 10:50 | Binary explanatory variable    | |
+| 11:00 - 12:00 | Numerical explanatory variable | |
+
+
+
+</div>
+		
+<button class="accordion">Day 11 &#9679; July 20 &#9679; Multiple Linear Regression</button>
+<div class="panel"> 
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Introduction      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week03/11a-multiiple-regression.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week03/11b-multiple-regression-activity.html){target="_blank"}|
+| 10:00 - 10:50 | Additive models    | |
+| 11:00 - 12:00 | Interaction | |
+
+
+</div>
+		
+<button class="accordion">Day 12 &#9679; July 21 &#9679; Logistic Regression </button>
+<div class="panel"> 
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Introduction      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week03/12a-logistic-regression.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week03/12b-logistic-regression-activity.html){target="_blank"}|
+| 10:00 - 10:50 | One binary explanatory variable    | |
+| 11:00 - 12:00 | Multiple explanatory variables | |
+
+
+</div>
+		
+<button class="accordion">Day 13 &#9679; July 22 &#9679; Review</button>
+<div class="panel"> 
+
+Review of statistical inference. 
+
+</div>
+
+<button class="accordion">Day 14 &#9679; July 23 &#9679; Final Project</button>
+<div class="panel"> 
+
+Data pre-processing and preliminary analysis for the final project.
+
+</div>
+
+<button class="accordion">Day 15 &#9679; July 26 &#9679; Drawing conclusions</button> 
+<div class="panel"> 
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:30 | Sample vs. Population                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week04/15a-sample-pop.html)       |
+| 09:30 - 10:00 | Study Design   |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week04/15b-study-design.html)       |
+| 10:10 - 11:00 | Model Assumptions               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week04/15c-model-assumptions.html) |
+| 11:10 - 12:00 | Model Evaluations               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week04/15d-model-eval.html) |
+
+</div>
+
+<button class="accordion">Day 16 &#9679; July 27 &#9679; Ethics and Communicating Findings</button>
+<div class="panel"> 
+
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 10:00 | Ethics Case Studies                           |[Link](http://www.webguru.neu.edu/professionalism/research-integrity/ethics-case-studies)       |
+| 10:10 - 11:20 | Improving Data Visualizations   |[Link](https://guides.library.duke.edu/datavis/topten)       |
+| 11:30 - 12:00 | Studying Data Science in College              |[Link](http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofstatistics/datascience_bs/) |
+| 13:00 - 15:00 | Model evaluation and validation for projects              | |
+
+
+
+</div>
+
+<button class="accordion">Day 17 &#9679; July 28 &#9679; Final Project</button>
+<div class="panel"> 
+
+Hands-on work on finalizing project analysis and communication of findings.
+
+</div>
+		
+<button class="accordion">Day 18 &#9679; July 29 &#9679; Presentation Rehearsals</button>
+<div class="panel"> 
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 10:00 | Practice within groups       |
+| 10:10 - 12:00 | Presentations and feedback       |
+
+
+</div>
+		
+<button class="accordion">Day 19 &#9679; July 30 &#9679; Project Presentations</button>
+
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:45 - 10:30 | Final Presentations                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week04/19a-overview.html)       |
+  
+
+</div>
+		
+
+
+```{r}
+htmltools::tagList(
+  htmltools::tags$script(src = "https://d3js.org/d3.v4.min.js"),
+  htmltools::tags$script(src = "https://cdnjs.cloudflare.com/ajax/libs/dimple/2.3.0/dimple.latest.min.js")
+)
+```
+
+```{js, class.source = "jsvis1"}
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    /* Toggle between adding and removing the "active" class,
+    to highlight the button that controls the panel */
+    this.classList.toggle("active");
+
+    /* Toggle between hiding and showing the active panel */
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+```
