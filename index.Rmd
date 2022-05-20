@@ -7,7 +7,7 @@ site: distill::distill_website
 knitr::include_graphics("img/COSMOS-logo.png")
 ```
 
-
+<!--comment-->
 The California State Summer School for Mathematics and Science (COSMOS) is a summer program established by the California State Legislature for high school students interested in STEM subjects.
 [UC Irvine](https://www.cosmos.uci.edu) is one of the campuses that hosts talented high school students enrolled in [one of the many clusters](https://www.cosmos.uci.edu/clusters). This specific cluster focuses on data science in biomedical sciences. 
 
