@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <!-- connecting to UCI email address-->
 		
-<button class="accordion">Day 1 &#9679; July 6 &#9679; Introduction to COSMOS, R, and Data</button>
+<button class="accordion">Day 1 &#9679; July 11 &#9679; Introduction to COSMOS, R, and Data Science</button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
