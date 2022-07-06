@@ -15,3 +15,19 @@ knitr::opts_chunk$set(echo = FALSE)
 |Alzheimer's Disease | [Link](https://www.youtube.com/watch?v=LrcL3vJjN2g) |
 
 </div>
+
+
+<!-- connecting to UCI email address-->
+		
+<button class="accordion">Day 1 &#9679; July 6 &#9679; Introduction to COSMOS, R, and Data</button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:30 | Welcome                            |[Slides](https://github.com/COSMOS-DataScience/slides/blob/main/week01/01a-welcome.html)       |
+| 09:35 - 10:30 | Introduction to R    |[Slides](https://github.com/COSMOS-DataScience/slides/blob/main/week01/01b-intro-r.html)       |
+| 10:45 - 12:00 | Introduction to Data Science              |[Slides](https://github.com/COSMOS-DataScience/slides/blob/main/week01/01c-intro-data-science.html)      |
+
+</div>
+		
+
