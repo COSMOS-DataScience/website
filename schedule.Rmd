@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <!-- connecting to UCI email address-->
 		
-<button class="accordion">Day 1 &#9679; July 11 &#9679; Introduction to COSMOS, R, and Data Science</button>
+<button class="accordion">Day 1 &#9679; July 11 &#9679; What is Data Science? </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
@@ -38,6 +38,66 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
+
+<button class="accordion">Day 2 &#9679; July 12 &#9679; Lab </button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 10:15 | Introduction to R                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/Lab-01a-intro-r.html) |
+| 10:45 - 12:00 | R packages |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/Lab-01b-R-packages.html)       |
+| 1:00 - 1:50 | Importing data               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/Lab-01c-import-data.html)  |
+| 2:00 - 3:00 | Pipe operation              | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/Lab-01d-pipe-op.html)     |
+
+</div>
+	
+	
+
+<button class="accordion">Day 3 &#9679; July 13 &#9679; Exploratory data analysis </button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:30 | Describing data                            |[Slides](https://cosmos-datascience.github.io/slides/week01/02a-describe-data.html)
+|
+| 09:35 - 10:30 | Data visualization     |[Slides](https://cosmos-datascience.github.io/slides/week01/02b-interpret-dataviz.html)       
+|
+| 10:45 - 12:00 | Working on the capstone project |                
+
+|
+
+</div>
+		
+
+
+
+<button class="accordion">Day 4 &#9679; July 14 &#9679; Lab </button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 10:15 | Subsetting data in R                         |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/Lab-02a-subset-group.html) |
+| 10:45 - 12:00 | Data visualization in R |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/Lab-02b-visualize-data.html)       |
+| 1:00 - 1:50 | Change of variables in R               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/Lab-02c-change-variable.html)  |
+| 2:00 - 3:00 | Advanced data visualization in R              | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/Lab-02d-improve-dataviz.html)     |
+
+</div>
+	
+	
+
+
+<button class="accordion">Day 5 &#9679; July 15 &#9679; Exploratory data analysis </button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 10:30 | Introduction to probability                           |[Slides](https://cosmos-datascience.github.io/slides/week01/03a-intro-prob.html)
+|
+| 10:45 - 12:00 | Understanding probability using simulations |                
+|
+
+</div>
+		
 
 
 
