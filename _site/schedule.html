@@ -2127,6 +2127,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
+<button class="accordion">
+Before Starting the Program
+</button>
+<div class="panel">
 <table>
 <colgroup>
 <col style="width: 29%" />
@@ -2193,10 +2197,20 @@ Day 1 ● July 11 ● Introduction to COSMOS, R, and Data Science
 href="https://cosmos-datascience.github.io/slides/week01/01a-welcome.html">Slides</a></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>09:35 - 10:30</td>
 <td>Introduction to R</td>
 <td><a
 href="https://cosmos-datascience.github.io/slides/week01/01b-intro-r.html">Slides</a></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td>10:45 - 12:00</td>
@@ -2204,8 +2218,39 @@ href="https://cosmos-datascience.github.io/slides/week01/01b-intro-r.html">Slide
 <td><a
 href="https://cosmos-datascience.github.io/slides/week01/01c-intro-data-science.html">Slides</a></td>
 </tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
+</div>
+<div class="layout-chunk" data-layout="l-body">
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dimple/2.3.0/dimple.latest.min.js"></script>
+</div>
+<div class="layout-chunk" data-layout="l-body">
+<script type="text/javascript">
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    /* Toggle between adding and removing the "active" class,
+    to highlight the button that controls the panel */
+    this.classList.toggle("active");
+
+    /* Toggle between hiding and showing the active panel */
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
 </div>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
