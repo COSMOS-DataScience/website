@@ -29,9 +29,9 @@ knitr::opts_chunk$set(echo = FALSE)
 |---------------|------------------------------------|-------|
 | 09:00 - 09:30 | Welcome                            |[Slides](https://cosmos-datascience.github.io/slides/week01/01a-welcome.html)
 |
-| 09:35 - 10:30 | Introduction to R    |[Slides](https://cosmos-datascience.github.io/slides/week01/01b-intro-r.html)       
+| 09:35 - 10:30 | Introduction to data science    |[Slides](https://cosmos-datascience.github.io/slides/week01/01b-intro-data-science.html)       
 |
-| 10:45 - 12:00 | Introduction to Data Science              |[Slides](https://cosmos-datascience.github.io/slides/week01/01c-intro-data-science.html)      
+| 10:45 - 12:00 | Introduction to the capstone project              |      
 |
 
 </div>
