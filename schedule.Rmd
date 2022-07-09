@@ -44,9 +44,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:15 | Introduction to R                            |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01a-intro-r.html) |
-| 10:45 - 12:00 | R packages |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01b-R-packages.html)       |
-| 1:00 - 1:50 | Importing data               |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01c-import-data.html)  |
+| 09:00 - 10:15 | Introduction to R                            |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01a-intro-r-schetzsle.html) |
+| 10:45 - 12:00 | R packages |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01b-R-packages-schetzsle.html)       |
+| 1:00 - 1:50 | Importing data               |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01c-import-data-schetzsle.html)  |
 | 2:00 - 3:00 | Pipe operation              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01d-pipe-op.html)     |
 
 </div>
@@ -77,8 +77,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 10:15 | Subsetting data in R                         |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02a-subset-group.html) |
-| 10:45 - 12:00 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-visualize-data.html)       |
-| 1:00 - 1:50 | Change of variables in R               |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-change-variable.html)  |
+| 1:00 - 1:50 | Change of variables in R               |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-change-variable.html)  |
+| 10:45 - 12:00 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-visualize-data-schetzsle.html)       |
 | 2:00 - 3:00 | Advanced data visualization in R              | [Slides](https://cosmos-datascience.github.io/slides/Lab-02d-improve-dataviz.html)     |
 
 </div>
