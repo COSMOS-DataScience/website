@@ -59,12 +59,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 09:30 | Describing data                            |[Slides](https://cosmos-datascience.github.io/slides/week01/02a-describe-data.html)
+| 09:00 - 10:30 | Describing data                            |[Slides](https://cosmos-datascience.github.io/slides/week01/02a-describe-data.html)
 |
-| 09:35 - 10:30 | Data visualization     |[Slides](https://cosmos-datascience.github.io/slides/week01/02b-interpret-dataviz.html)       
-|
-| 10:45 - 12:00 | Working on the capstone project |                
-
+| 10:45 - 12:00 | Working on the capstone project         | [Slides](https://cosmos-datascience.github.io/slides/week01/02b-capstone-eda.pdf) 
 |
 
 </div>
