@@ -31,7 +31,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |
 | 09:35 - 10:30 | Introduction to data science    |[Slides](https://cosmos-datascience.github.io/slides/week01/01b-intro-data-science.html)       
 |
-| 10:45 - 12:00 | Introduction to capstone project |                [Slides](https://cosmos-datascience.github.io/slides/week01/01c-intro-capstone-project.pdf)    |
+| 10:45 - 12:00 | Introduction to the capstone project |                [Slides](https://cosmos-datascience.github.io/slides/week01/01c-intro-capstone-project.pdf)    |
 
 </div>
 		
