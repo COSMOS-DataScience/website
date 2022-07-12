@@ -93,7 +93,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |---------------|------------------------------------|-------|
 | 09:00 - 10:30 | Introduction to probability                           |[Slides](https://cosmos-datascience.github.io/slides/week01/03a-intro-prob.html)
 |
-| 10:45 - 12:00 | Understanding probability using simulations |                
+| 10:45 - 12:00 | Understanding probability through simulations |                
 |
 
 </div>
