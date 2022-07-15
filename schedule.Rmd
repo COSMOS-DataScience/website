@@ -11,10 +11,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | To-Do         |                              | 
 |---------------|------------------------------------|
-| Download and Install R | [Link](https://mirror.las.iastate.edu/CRAN/) [Video](https://uci.yuja.com/V/Video?v=3173351&node=10757512&a=280036139&autoplay=1) |
-| Download and Install RStudio| [Link](https://www.rstudio.com/products/rstudio/download/)  [Video](https://uci.yuja.com/V/Video?v=3173359&node=10757552&a=664679852&autoplay=1)     |
+| Download and Install R | [Link](https://mirror.las.iastate.edu/CRAN/) [Video](https://uci.yuja.com/V/Video?v=3173351&node=10757512&a=280036139&autoplay=1)|
+| Download and Install RStudio| [Link](https://www.rstudio.com/products/rstudio/download/)  [Video](https://uci.yuja.com/V/Video?v=3173359&node=10757552&a=664679852&autoplay=1)|
 |Setup RStudio| [Video](https://uci.yuja.com/V/Video?v=3173384&node=10757676&a=717681262&autoplay=1)       |
-|Download packages |<a href="R-code/code-00-setup.R" download>File</a> [Video](https://uci.yuja.com/V/Video?v=3173415&node=10757778&a=1269482034&autoplay=1)     |
+|Download packages |<a href="R-code/code-00-setup.R" download>File</a> [Video](https://uci.yuja.com/V/Video?v=3173415&node=10757778&a=1269482034&autoplay=1)|
 |Alzheimer's Disease | [Link](https://www.youtube.com/watch?v=LrcL3vJjN2g) |
 
 </div>
@@ -27,10 +27,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 09:30 | Welcome                            |[Slides](https://cosmos-datascience.github.io/slides/week01/01a-welcome.html)
-|
-| 09:35 - 10:30 | Introduction to data science    |[Slides](https://cosmos-datascience.github.io/slides/week01/01b-intro-data-science.html)       
-|
+| 09:00 - 09:30 | Welcome                            |[Slides](https://cosmos-datascience.github.io/slides/week01/01a-welcome.html)|
+| 09:35 - 10:30 | Introduction to data science    |[Slides](https://cosmos-datascience.github.io/slides/week01/01b-intro-data-science.html)   |
 | 10:45 - 12:00 | Introduction to the capstone project |                [Slides](https://cosmos-datascience.github.io/slides/week01/01c-intro-capstone-project.pdf)    |
 
 </div>
@@ -59,9 +57,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:30 | Describing data                            |[Slides](https://cosmos-datascience.github.io/slides/week01/02a-describe-data.html)
-|
-| 10:45 - 12:00 | Working on the capstone project         | [Slides](https://cosmos-datascience.github.io/slides/week01/02b-capstone-eda.pdf) &#9679; [File](https://cosmos-datascience.github.io/slides/week01/02b-capstone-eda-code.R)
+| 09:00 - 10:30 | Describing data                            |[Slides](https://cosmos-datascience.github.io/slides/week01/02a-describe-data.html)|
+| 10:45 - 12:00 | Working on the capstone project         | [Slides](https://cosmos-datascience.github.io/slides/week01/02b-capstone-eda.pdf)   [File](https://cosmos-datascience.github.io/slides/week01/02b-capstone-eda-code.R)
 |
 
 </div>
@@ -75,8 +72,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 10:15 | R Markdown                        |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02a-intro-rmarkdown-moslemi.html) |
-| 10:45 - 12:00 | Practicing R  Markdown            | 
-|
+| 10:45 - 12:00 | Practicing R  Markdown            | |
 | 1:00 - 2:00 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-visualize-data-schetzsle.html)       |
 | 2:15 - 3:00 | Practicing data visualization              | 
 |
@@ -91,15 +87,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:30 | Introduction to probability                           |[Slides](https://cosmos-datascience.github.io/slides/week01/03a-intro-prob.html)
-|
-| 10:45 - 12:00 | Understanding probability through simulations |                
-|
+| 09:00 - 10:30 | Introduction to probability |[Slides](https://cosmos-datascience.github.io/slides/week01/03a-intro-prob.html)|
+| 10:45 - 12:00 | Probability through simulations| [Slides](https://cosmos-datascience.github.io/slides/week01/03b-intro-prob-simulation.pdf) [File](https://cosmos-datascience.github.io/slides/week01/03b-intro-prob-simulation-code.R)|
 
 </div>
 		
-
-
 
 
 
