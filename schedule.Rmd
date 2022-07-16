@@ -96,6 +96,77 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
+
+<button class="accordion">Day 6 &#9679; July 18 &#9679; Estimation & hypothesis </button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 10:00 | Estimating  |[Slides](https://cosmos-datascience.github.io/slides/week02/01a-estimation.html)|
+| 10:15 - 11:00 | Hypothesis testing |[Slides](https://cosmos-datascience.github.io/slides/week02/01b-hypothesis.html)|
+| 11:15 - 12:00 | Examples from the capstone project| 
+|
+
+</div>
+		
+
+
+
+<button class="accordion">Day 7 &#9679; July 19 &#9679; Lab </button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 12:00 | Estimation problems in the capstone project  ||
+| 1:00 - 3:00 | Hypothesis testing problems in the capstone project ||
+
+</div>
+		
+
+
+
+<button class="accordion">Day 8 &#9679; July 20 &#9679; Relationships </button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 10:30 | Exploring and examining relationships |[Slides](https://cosmos-datascience.github.io/slides/week02/02a-relationship.html)|
+| 10:45 - 12:00 | Examples from the capstone project | |
+
+</div>
+		
+
+
+
+<button class="accordion">Day 9 &#9679; July 21 &#9679; Lab </button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 12:00 | Exploring relationships in the capstone project  ||
+| 1:00 - 3:00 | Examining relationship in the capstone project ||
+
+</div>
+	
+	
+	
+
+
+<button class="accordion">Day 10 &#9679; July 22 &#9679; Regression </button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 10:00 | Linear regression  |[Slides](https://cosmos-datascience.github.io/slides/week02/03a-regression.html)|
+| 10:15 - 11:00 | Logistic regression |[Slides](https://cosmos-datascience.github.io/slides/week02/03b-logit.html)|
+| 11:15 - 12:00 | Regression examples from the capstone project| 
+|
+
+</div>
+			
+	
+	
+	
 ```{r}
 htmltools::tagList(
   htmltools::tags$script(src = "https://d3js.org/d3.v4.min.js"),
