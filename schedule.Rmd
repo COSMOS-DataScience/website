@@ -104,8 +104,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |---------------|------------------------------------|-------|
 | 09:00 - 10:00 | Estimating  |[Slides](https://cosmos-datascience.github.io/slides/week02/01a-estimation.html)|
 | 10:15 - 11:00 | Hypothesis testing |[Slides](https://cosmos-datascience.github.io/slides/week02/01b-hypothesis.html)|
-| 11:15 - 12:00 | Examples from the capstone project| 
-|
+| 11:15 - 12:00 | Examples from the capstone project| [Slides](https://cosmos-datascience.github.io/slides/week02/01c-capstone-estimation.pdf) [File](https://cosmos-datascience.github.io/slides/week02/01c-capstone-estimation-code.R)|
 
 </div>
 		
