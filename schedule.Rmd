@@ -116,7 +116,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 12:00 | Estimation problems in the capstone project  ||
+| 09:00 - 12:00 | Estimation problems in the capstone project  | [Slides](https://cosmos-datascience.github.io/slides/week02/Lab-02a-estimation-schetzsle.html)|
 | 1:00 - 3:00 | Hypothesis testing problems in the capstone project ||
 
 </div>
