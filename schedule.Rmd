@@ -130,7 +130,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 10:30 | Exploring and examining relationships |[Slides](https://cosmos-datascience.github.io/slides/week02/02a-relationship.html)|
-| 10:45 - 12:00 | Examples from the capstone project | |
+| 10:45 - 12:00 | Examples from the capstone project |[Slides](https://cosmos-datascience.github.io/slides/week02/02b-capstone-relationship.pdf) [File](https://cosmos-datascience.github.io/slides/week02/02b-capstone-relationship-code.R)|
 
 </div>
 		
