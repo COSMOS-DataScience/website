@@ -142,7 +142,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 12:00 | Exploring relationships in the capstone project  ||
+| 09:00 - 12:00 | Exploring relationships in the capstone project  
+|[Slides](https://cosmos-datascience.github.io/slides/week02/Lab-2a-scatterplots-Moslemi.html)|
 | 1:00 - 3:00 | Examining relationship in the capstone project ||
 
 </div>
