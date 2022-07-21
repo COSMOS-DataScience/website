@@ -158,8 +158,8 @@ knitr::opts_chunk$set(echo = FALSE)
 |---------------|------------------------------------|-------|
 | 09:00 - 10:00 | Linear regression  |[Slides](https://cosmos-datascience.github.io/slides/week02/03a-regression.html)|
 | 10:15 - 11:00 | Logistic regression |[Slides](https://cosmos-datascience.github.io/slides/week02/03b-logit.html)|
-| 11:15 - 12:00 | Regression examples from the capstone project| 
-|
+| 11:15 - 12:00 | Regression examples from the capstone project| [Slides](https://cosmos-datascience.github.io/slides/week02/03c-capstone-regression.pdf) [File](https://cosmos-datascience.github.io/slides/week02/03c-capstone-regression-code.R)|
+
 
 </div>
 			
