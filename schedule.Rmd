@@ -116,7 +116,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 12:00 | Estimation problems in the capstone project  | [Slides](https://cosmos-datascience.github.io/slides/week02/Lab-02a-estimation-schetzsle.html)|
+| 09:00 - 12:00 | Estimation problems in the capstone project  | [Slides](https://cosmos-datascience.github.io/slides/week02/Lab-02a-estimation-schetzsle.html) [File](https://raw.githubusercontent.com/COSMOS-DataScience/slides/main/week02/Estimation_worksheet.Rmd)|
 | 1:00 - 3:00 | Hypothesis testing problems in the capstone project ||
 
 </div>
@@ -142,7 +142,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 12:00 | Exploring relationships in the capstone project  ||
+| 09:00 - 12:00 | Exploring relationships in the capstone project  
+|[Slides](https://cosmos-datascience.github.io/slides/week02/Lab-2a-scatterplots-Moslemi.html)|
 | 1:00 - 3:00 | Examining relationship in the capstone project ||
 
 </div>
