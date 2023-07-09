@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <!-- connecting to UCI email address-->
 		
-<button class="accordion">Day 1 &#9679; July 11 &#9679; What is Data Science? </button>
+<button class="accordion">Day 1 &#9679; July 10 &#9679; What is Data Science? </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
@@ -38,7 +38,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-<button class="accordion">Day 2 &#9679; July 12 &#9679; Exploratory Data Analysis </button>
+<button class="accordion">Day 2 &#9679; July 11 &#9679; Exploratory Data Analysis </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
@@ -53,7 +53,7 @@ knitr::opts_chunk$set(echo = FALSE)
 	
 	
 
-<button class="accordion">Day 3 &#9679; July 13 &#9679; Probability </button>
+<button class="accordion">Day 3 &#9679; July 12 &#9679; Probability </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
@@ -66,7 +66,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-<button class="accordion">Day 4 &#9679; July 14 &#9679; Estimation & and hypothesis testing </button>
+<button class="accordion">Day 4 &#9679; July 13 &#9679; Estimation & and hypothesis testing </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
@@ -83,7 +83,7 @@ knitr::opts_chunk$set(echo = FALSE)
 	
 
 
-<button class="accordion">Day 5 &#9679; July 15 &#9679; Relationships </button>
+<button class="accordion">Day 5 &#9679; July 14 &#9679; Relationships </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
@@ -97,7 +97,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-<button class="accordion">Day 6 &#9679; July 18 &#9679; Linear regression </button>
+<button class="accordion">Day 6 &#9679; July 17 &#9679; Linear regression </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
@@ -109,7 +109,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-<button class="accordion">Day 7 &#9679; July 19 &#9679; Logistic regression </button>
+<button class="accordion">Day 7 &#9679; July 18 &#9679; Logistic regression </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
