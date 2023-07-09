@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |---------------|------------------------------------|-------|
 | 09:00 - 09:30 | Welcome                            |[Slides](https://cosmos-datascience.github.io/slides/week01/01a-welcome.html)|
 | 09:35 - 10:30 | Introduction to data science    |[Slides](https://cosmos-datascience.github.io/slides/week01/01b-intro-data-science.html)|
-| 10:45 - 11:45 | Introduction to R    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01a-intro-r-meng.html)|
+| 10:45 - 11:45 | Introduction to R    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01-R-intro.html)|
 | 2:00 - 3:00 | Introduction to the capstone project |                [Slides](https://cosmos-datascience.github.io/slides/week01/01c-intro-capstone-project.pdf)|
 
 </div>
@@ -38,42 +38,42 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-<button class="accordion">Day 2 &#9679; July 12 &#9679; Lab </button>
+<button class="accordion">Day 2 &#9679; July 12 &#9679; Exploratory Data Analysis </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:00 | Introduction to R                            |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01a-intro-r-schetzsle.html) |
-| 10:15 - 10:45 | R packages |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01b-R-packages-schetzsle.html)       |
-| 10:45 - 12:00 | Importing data               |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01c-import-data-schetzsle.html)  |
-| 1:00 - 1:45 | Tidyverse              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01d-intro-tidyverse-moslemi.html)     |
-| 2:00 - 3:00 | Data wrangling              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01e-data-wrangling-moslemi.html)     |
+| 09:00 - 10:15 | Describing data                            |[Slides](https://cosmos-datascience.github.io/slides/week01/02a-describe-data.html) |
+| 10:30 - 11:00 | R packages |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02-R-packages.html)       |
+| 11:15 - 11:45 | Importing data               |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-03-import-data.html)  |
+| 1:00 - 1:45 | Tidyverse              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04-intro-tidyverse.html)     |
+| 2:00 - 3:00 | Data wrangling              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-05-data-wrangling.html)     |
 
 </div>
 	
 	
 
-<button class="accordion">Day 3 &#9679; July 13 &#9679; Exploratory data analysis </button>
+<button class="accordion">Day 3 &#9679; July 13 &#9679; Probability </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:30 | Describing data                            |[Slides](https://cosmos-datascience.github.io/slides/week01/02a-describe-data.html)|
-| 10:45 - 12:00 | Working on the capstone project         | [Slides](https://cosmos-datascience.github.io/slides/week01/02b-capstone-eda.pdf)   [File](https://cosmos-datascience.github.io/slides/week01/02b-capstone-eda-code.R)
-|
+| 09:00 - 10:15 | Introduction to probability                            |[Slides](https://cosmos-datascience.github.io/slides/week01/03a-intro-prob.html)|
+| 10:30 - 11:45 | Probability through simulation         | [Slides](https://cosmos-datascience.github.io/slides/week01/03b-intro-prob-simulation.pdf) [File](https://cosmos-datascience.github.io/slides/week01/03b-intro-prob-simulation-code.R)|
 
 </div>
 		
 
 
 
-<button class="accordion">Day 4 &#9679; July 14 &#9679; Lab </button>
+<button class="accordion">Day 4 &#9679; July 14 &#9679; Estimation & and hypothesis testing </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:15 | R Markdown                        |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02a-intro-rmarkdown-moslemi.html) |
-| 10:45 - 12:00 | Practicing R  Markdown            | |
+| 09:00 - 10:00 | Point estimation and confidence interval                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04a-estimation.html) |
+| 10:15 - 11:00 | Hypothesis testing                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04b-hypothesis.html) |
+| 11:15 - 11:45 | Practicing R  Markdown            | |
 | 1:00 - 2:00 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-visualize-data-schetzsle.html)       |
 | 2:15 - 3:00 | Practicing data visualization              | 
 |
@@ -83,13 +83,12 @@ knitr::opts_chunk$set(echo = FALSE)
 	
 
 
-<button class="accordion">Day 5 &#9679; July 15 &#9679; Introduction to probability </button>
+<button class="accordion">Day 5 &#9679; July 15 &#9679; Relationships </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:30 | Introduction to probability |[Slides](https://cosmos-datascience.github.io/slides/week01/03a-intro-prob.html)|
-| 10:45 - 12:00 | Probability through simulations| [Slides](https://cosmos-datascience.github.io/slides/week01/03b-intro-prob-simulation.pdf) [File](https://cosmos-datascience.github.io/slides/week01/03b-intro-prob-simulation-code.R)|
+| 09:00 - 10:30 | Exploring and examining relationships |[Slides](https://cosmos-datascience.github.io/slides/week01/05a-relationship.html)|
 
 </div>
 		
@@ -98,74 +97,28 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-<button class="accordion">Day 6 &#9679; July 18 &#9679; Estimation & hypothesis </button>
+<button class="accordion">Day 6 &#9679; July 18 &#9679; Linear regression </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:00 | Estimating  |[Slides](https://cosmos-datascience.github.io/slides/week02/01a-estimation.html)|
-| 10:15 - 11:00 | Hypothesis testing |[Slides](https://cosmos-datascience.github.io/slides/week02/01b-hypothesis.html)|
-| 11:15 - 12:00 | Examples from the capstone project| [Slides](https://cosmos-datascience.github.io/slides/week02/01c-capstone-estimation.pdf) [File](https://cosmos-datascience.github.io/slides/week02/01c-capstone-estimation-code.R)|
+| 09:00 - 10:30 | Introduction to linear regression  |[Slides](https://cosmos-datascience.github.io/slides/week02/01a-regression.html)|
 
 </div>
 		
 
 
 
-<button class="accordion">Day 7 &#9679; July 19 &#9679; Lab </button>
+<button class="accordion">Day 7 &#9679; July 19 &#9679; Logistic regression </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 12:00 | Estimation problems in the capstone project  | [Slides](https://cosmos-datascience.github.io/slides/week02/Lab-02a-estimation-schetzsle.html) [File](https://raw.githubusercontent.com/COSMOS-DataScience/slides/main/week02/Estimation_worksheet.Rmd)|
-| 1:00 - 3:00 | Hypothesis testing problems in the capstone project ||
-
+| 09:00 - 10:30 | Introdcution to logistic regression  | [Slides](https://cosmos-datascience.github.io/slides/week02/02a-logit.html) |
 </div>
 		
 
 
-
-<button class="accordion">Day 8 &#9679; July 20 &#9679; Relationships </button>
-<div class="panel">
-
-| Time          | Topic                              | Links |
-|---------------|------------------------------------|-------|
-| 09:00 - 10:30 | Exploring and examining relationships |[Slides](https://cosmos-datascience.github.io/slides/week02/02a-relationship.html)|
-| 10:45 - 12:00 | Examples from the capstone project |[Slides](https://cosmos-datascience.github.io/slides/week02/02b-capstone-relationship.pdf) [File](https://cosmos-datascience.github.io/slides/week02/02b-capstone-relationship-code.R)|
-
-</div>
-		
-
-
-
-<button class="accordion">Day 9 &#9679; July 21 &#9679; Lab </button>
-<div class="panel">
-
-| Time          | Topic                              | Links |
-|---------------|------------------------------------|-------|
-| 09:00 - 12:00 | Exploring relationships in the capstone project  
-|[Slides](https://cosmos-datascience.github.io/slides/week02/Lab-2a-scatterplots-Moslemi.html)|
-| 1:00 - 3:00 | Examining relationship in the capstone project ||
-
-</div>
-	
-	
-	
-
-
-<button class="accordion">Day 10 &#9679; July 22 &#9679; Regression </button>
-<div class="panel">
-
-| Time          | Topic                              | Links |
-|---------------|------------------------------------|-------|
-| 09:00 - 10:00 | Linear regression  |[Slides](https://cosmos-datascience.github.io/slides/week02/03a-regression.html)|
-| 10:15 - 11:00 | Logistic regression |[Slides](https://cosmos-datascience.github.io/slides/week02/03b-logit.html)|
-| 11:15 - 12:00 | Regression examples from the capstone project| [Slides](https://cosmos-datascience.github.io/slides/week02/03c-capstone-regression.pdf) [File](https://cosmos-datascience.github.io/slides/week02/03c-capstone-regression-code.R)|
-
-
-</div>
-			
-	
 	
 	
 ```{r}
