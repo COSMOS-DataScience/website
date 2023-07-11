@@ -46,8 +46,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | 09:00 - 10:15 | Describing data                            |[Slides](https://cosmos-datascience.github.io/slides/week01/02a-describe-data.html) |
 | 10:30 - 11:00 | R packages |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02-R-packages.html)       |
 | 11:15 - 11:45 | Importing data               |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-03-import-data.html)  |
-| 1:00 - 1:45 | Tidyverse              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04-intro-tidyverse.html)     |
-| 2:00 - 3:00 | Data wrangling              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-05-data-wrangling.html)     |
+| 1:30 - 3:30 | Tidyverse              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04-intro-tidyverse.html)     |
 
 </div>
 	
@@ -73,10 +72,9 @@ knitr::opts_chunk$set(echo = FALSE)
 |---------------|------------------------------------|-------|
 | 09:00 - 10:00 | Point estimation and confidence interval                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04a-estimation.html) |
 | 10:15 - 11:00 | Hypothesis testing                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04b-hypothesis.html) |
-| 11:15 - 11:45 | Practicing R  Markdown            | |
-| 1:00 - 2:00 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-visualize-data-schetzsle.html)       |
-| 2:15 - 3:00 | Practicing data visualization              | 
-|
+| 11:15 - 12:00 | Data wrangling              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-05-data-wrangling.html)     |
+| 1:30 - 2:30 | Practicing R  Markdown            | |
+| 2:45 - 3:30 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-visualize-data-schetzsle.html)       |
 
 </div>
 	
