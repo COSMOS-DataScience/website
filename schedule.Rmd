@@ -88,7 +88,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 10:30 | Exploring and examining relationships |[Slides](https://cosmos-datascience.github.io/slides/week01/05a-relationship.html)|
-| 10:30 - 11:45 | Probability through simulation         | [Slides](https://cosmos-datascience.github.io/slides/week01/03b-intro-prob-simulation.pdf) [File](https://cosmos-datascience.github.io/slides/week01/03b-intro-prob-simulation-code.R)|
+| 10:30 - 11:45 | Probability through simulation         | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-simulation.html)|
 </div>
 		
 
