@@ -102,8 +102,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 10:30 | Introduction to linear regression  |[Slides](https://cosmos-datascience.github.io/slides/week02/01a-regression.html)|
-
-</div>
+| 11:00 - 12:00 | Confidence Interval and Hypothesis Testing | [Slides](https://cosmos-datascience.github.io/slides/week02/Lab-01-confint.html)|
 		
 
 
