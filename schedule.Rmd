@@ -66,14 +66,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-<button class="accordion">Day 4 &#9679; July 13 &#9679; Estimation & and hypothesis testing </button>
+<button class="accordion">Day 4 &#9679; July 13 &#9679; Estimation </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:00 | Point estimation and confidence interval                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04a-estimation.html) |
-| 10:15 - 11:00 | Hypothesis testing                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04b-hypothesis.html) |
-| 11:15 - 12:00 | Practicing Data Wrangling            | |
+| 09:00 - 10:45 | Point estimation and confidence interval                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04a-estimation.html) |
+| 11:00 - 12:00 | Practicing Data Wrangling            | |
 | 1:30 - 2:30 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-visualize-data-meng.html)
 | 2:45 - 3:30 | Advanced Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02d-improve-dataviz-meng.html)       |
 
@@ -82,13 +81,14 @@ knitr::opts_chunk$set(echo = FALSE)
 	
 
 
-<button class="accordion">Day 5 &#9679; July 14 &#9679; Relationships </button>
+<button class="accordion">Day 5 &#9679; July 14 &#9679; Hypothesis testing </button>
 <div class="panel">
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:30 | Exploring and examining relationships |[Slides](https://cosmos-datascience.github.io/slides/week01/05a-relationship.html)|
-| 10:30 - 11:45 | Probability through simulation         | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-simulation.html)|
+| 9:00 - 10:00 | Hypothesis testing                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04b-hypothesis.html) |
+| 10:15 - 11:00 | Examining relationships |[Slides](https://cosmos-datascience.github.io/slides/week01/05a-relationship.html)|
+| 11:15 - 12:00 | Probability through simulation         | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-simulation.html)|
 </div>
 		
 
