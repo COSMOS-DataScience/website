@@ -89,6 +89,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | 9:00 - 10:00 | Hypothesis testing                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04b-hypothesis.html) |
 | 10:15 - 11:00 | Examining relationships |[Slides](https://cosmos-datascience.github.io/slides/week01/05a-relationship.html)|
 | 11:15 - 12:00 | Probability through simulation         | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-simulation.html)|
+
 </div>
 		
 
@@ -104,7 +105,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | 09:00 - 10:30 | Introduction to linear regression  |[Slides](https://cosmos-datascience.github.io/slides/week02/01a-regression.html)|
 | 11:00 - 12:00 | Confidence Interval and Hypothesis Testing | [Slides](https://cosmos-datascience.github.io/slides/week02/Lab-01-confint.html)|
 		
-
+</div>
 
 
 <button class="accordion">Day 7 &#9679; July 18 &#9679; Logistic regression </button>
