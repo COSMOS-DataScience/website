@@ -4,13 +4,13 @@ title: "People"
 
 ## Faculty
 
-| <img src="img/Babak.jpeg" class="rounded-circle center mx-auto d-block" alt="Headshot of Professor Shahbaba" style="width:200px; margin-right;0%; display:block;"> | <img src="img/jaynes.png" class="rounded-circle center mx-auto d-block"   alt="Headshot of Professor Behseta" style="width:200px; margin-right;40%; display:block;"> |
+| <img src="img/Babak.jpeg" class="rounded-circle center mx-auto d-block" alt="Headshot of Professor Shahbaba" style="width:200px; margin-right;0%; display:block;"> | <img src="img/jaynes.png" class="rounded-circle center mx-auto d-block"   alt="Headshot of Professor Jaynes" style="width:200px; margin-right;40%; display:block;"> |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Dr. Babak Shahbaba  |  Dr. Jessica Jaynes |
 
 ## Teaching Assistants (TAs)
 
-| <img src="img/yang1.png" class="rounded-circle center mx-auto d-block" alt="Headshot of Brian." style="width:200px; margin-right;40%; display:block;"> | <img src="img/politewicz.png" class="rounded-circle center mx-auto d-block" alt="Headshot of Zahra." style="width:200px; margin-right;40%; display:block;"> | 
+| <img src="img/zoey.png" class="rounded-circle center mx-auto d-block" alt="Headshot of Zoey" style="width:200px; margin-right;40%; display:block;"> | <img src="img/politewicz.png" class="rounded-circle center mx-auto d-block" alt="Headshot of Peyton" style="width:200px; margin-right;40%; display:block;"> | 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |         Zoey Yang |        Peyton Politewicz |  
                                                                                                                                                                                                                                   
