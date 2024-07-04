@@ -10,7 +10,7 @@ title: "People"
 
 ## Teaching Assistants (TAs)
 
-| <img src="img/Zoey.png" class="rounded-circle center mx-auto d-block" alt="Headshot of Zoey" style="width:200px; margin-right;40%; display:block;"> | <img src="img/politewicz.png" class="rounded-circle center mx-auto d-block" alt="Headshot of Peyton" style="width:200px; margin-right;40%; display:block;"> | 
+| <img src="img/zoey.jpg" class="rounded-circle center mx-auto d-block" alt="Headshot of Zoey" style="width:200px; margin-right;40%; display:block;"> | <img src="img/politewicz.png" class="rounded-circle center mx-auto d-block" alt="Headshot of Peyton" style="width:200px; margin-right;40%; display:block;"> | 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |         Zoey Yang |        Peyton Politewicz |  
                                                                                                                                                                                                                                   
