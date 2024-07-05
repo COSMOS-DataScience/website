@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | 09:00 - 09:30 | Welcome                            |[Slides](https://cosmos-datascience.github.io/slides/week01/01a-welcome.html)|
 | 09:35 - 10:30 | Introduction to data science    |[Slides](https://cosmos-datascience.github.io/slides/week01/01b-intro-data-science.html)|
 | 10:45 - 11:45 | Introduction to R    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01a-intro-R.html)|
-| 1:00 - 1:45 | Introduction to R Markdown    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01b-intro-rmarkdown.html) &#9679; [Video](Lab-01b-intro-rmarkdown.mp4)  |
+| 1:00 - 1:45 | Introduction to R Markdown    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01b-intro-rmarkdown.html) [Video](https://cosmos-datascience.github.io/slides/week01/Lab-01b-intro-rmarkdown.mp4)  |
 | 2:00 - 3:00 | R Packages    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01c-R-packages.html)|
 
 </div>
