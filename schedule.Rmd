@@ -29,8 +29,9 @@ knitr::opts_chunk$set(echo = FALSE)
 |---------------|------------------------------------|-------|
 | 09:00 - 09:30 | Welcome                            |[Slides](https://cosmos-datascience.github.io/slides/week01/01a-welcome.html)|
 | 09:35 - 10:30 | Introduction to data science    |[Slides](https://cosmos-datascience.github.io/slides/week01/01b-intro-data-science.html)|
-| 10:45 - 11:45 | Introduction to R    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01-R-Rmd-intro-Zoey.html)|
-| 1:00 - 3:00 | R programming lab (Alzheimer's disease) |                [Slides](https://cosmos-datascience.github.io/slides/week01/2023_Intro_to_AD_Online.pdf)|
+| 10:45 - 11:45 | Introduction to R    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01a-intro-R.html)|
+| 1:00 - 1:45 | R Packages    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01b-R-packages.html)|
+| 2:00 - 3:00 | R programming lab (Alzheimer's disease) |                [Slides](https://cosmos-datascience.github.io/slides/week01/2023_Intro_to_AD_Online.pdf)|
 
 </div>
 		
