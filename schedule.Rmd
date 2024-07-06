@@ -71,9 +71,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:45 | Point estimation and confidence interval                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04a-estimation.html) |
-| 1:30 - 2:30 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04a-visualize-data.html)
-| 2:45 - 3:30 | Advanced Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04b-improve-dataviz.html)       |
+| 09:00 - 10:30 | Point estimation and confidence interval                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04a-estimation.html) |
+| 10:45 - 11:45 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04a-visualize-data.html)
+| 1:30 - 3:00 | Advanced Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04b-improve-dataviz.html)       |
 
 </div>
 	
@@ -85,9 +85,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 9:00 - 10:00 | Hypothesis testing                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04b-hypothesis.html) |
-| 10:15 - 11:00 | Examining relationships |[Slides](https://cosmos-datascience.github.io/slides/week01/05a-relationship.html)|
-| 11:15 - 12:00 | Probability through simulation         | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-simulation.html)|
+| 9:00 - 10:30 | Hypothesis testing                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04b-hypothesis.html) |
+| 10:45 - 12:00 | Examining relationships |[Slides](https://cosmos-datascience.github.io/slides/week01/05a-relationship.html)|
+| 1:30 - 3:00 | Capstone projects         | |
 
 </div>
 		
