@@ -103,7 +103,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 10:30 | Introduction to linear regression  |[Slides](https://cosmos-datascience.github.io/slides/week02/01a-regression.html)|
-| 11:00 - 12:00 | Confidence Interval and Hypothesis Testing | [Slides](https://cosmos-datascience.github.io/slides/week02/Lab-01-confint.html)|
+| 11:00 - 12:00 | Linear regression in R | [Slides](https://cosmos-datascience.github.io/slides/week02/Lab-01-linear-regression.html)|
 		
 </div>
 
@@ -114,7 +114,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 10:30 | Introdcution to logistic regression  | [Slides](https://cosmos-datascience.github.io/slides/week02/02a-logit.html) |
-| 10:30 - 11:45 | Linear and Logistic regression practice        | [Slides](https://cosmos-datascience.github.io/slides/week02/Lab-week20b-regression.html)|
+| 10:30 - 11:45 | Logistic regression in R        | [Slides](https://cosmos-datascience.github.io/slides/week02/Lab-02-logistic-regression.html)|
 </div>
 		
 
