@@ -59,7 +59,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 10:30 | Introduction to probability                            |[Slides](https://cosmos-datascience.github.io/slides/week01/03a-intro-prob.html)|
-| 10:45 - 12:00 | Data Wrangling         | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-05-data-wrangling.html)|
+| 10:45 - 12:00 | Data Wrangling         | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-03a-data-wrangling.html)|
 
 </div>
 		
@@ -72,8 +72,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 10:45 | Point estimation and confidence interval                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04a-estimation.html) |
-| 1:30 - 2:30 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-visualize-data-meng.html)
-| 2:45 - 3:30 | Advanced Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02d-improve-dataviz-meng.html)       |
+| 1:30 - 2:30 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04a-visualize-data.html)
+| 2:45 - 3:30 | Advanced Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04b-improve-dataviz.html)       |
 
 </div>
 	
