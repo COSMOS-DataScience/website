@@ -31,7 +31,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | 09:35 - 10:30 | Introduction to data science    |[Slides](https://cosmos-datascience.github.io/slides/week01/01b-intro-data-science.html)|
 | 10:45 - 11:45 | Introduction to R    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01a-intro-R.html)|
 | 1:00 - 1:45 | Introduction to R Markdown    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01b-intro-rmarkdown.html) [Video](https://cosmos-datascience.github.io/slides/week01/Lab-01b-intro-rmarkdown.mp4)  |
-| 2:00 - 3:00 | R Packages    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01c-R-packages.html)|
+| 2:00 - 3:00 | Introduction to GitHub    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01c-github.html)|
 
 </div>
 		
@@ -45,9 +45,10 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 10:30 | Describing data                            |[Slides](https://cosmos-datascience.github.io/slides/week01/02a-describe-data.html) |
-| 10:45 - 11:45 | Importing data               |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02a-import-data.html)  |
-| 1:00 - 2:00 | Tidyverse              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-intro-tidyverse.html)     |
-| 2:15 - 3:00 | Changing variables              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-change-variable.html)     |
+| 10:45 - 11:15 | R Packages    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02a-R-packages.html)|
+| 11:15 - 11:45 | Importing data               |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-import-data.html)  |
+| 1:00 - 2:00 | Tidyverse              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-intro-tidyverse.html)     |
+| 2:15 - 3:00 | Changing variables              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02d-change-variable.html)     |
 </div>
 	
 	
@@ -57,9 +58,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:15 | Introduction to probability                            |[Slides](https://cosmos-datascience.github.io/slides/week01/03a-intro-prob.html)|
-| 10:30 - 11:00 | Introduction to R markdown         | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02a-intro-rmarkdown-meng.html)|
-| 11:00 - 12:00 | Data Wrangling         | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-05-data-wrangling.html)|
+| 09:00 - 10:30 | Introduction to probability                            |[Slides](https://cosmos-datascience.github.io/slides/week01/03a-intro-prob.html)|
+| 10:45 - 12:00 | Data Wrangling         | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-05-data-wrangling.html)|
 
 </div>
 		
@@ -72,7 +72,6 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 10:45 | Point estimation and confidence interval                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04a-estimation.html) |
-| 11:00 - 12:00 | Practicing Data Wrangling            | |
 | 1:30 - 2:30 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-visualize-data-meng.html)
 | 2:45 - 3:30 | Advanced Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02d-improve-dataviz-meng.html)       |
 
