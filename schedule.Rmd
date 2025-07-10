@@ -79,8 +79,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:30 | Point estimation and confidence interval                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04a-estimation.html) |
-| 10:45 - 11:45 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04a-visualize-data.html)
+| 09:00 - 10:30 | Point estimation and confidence interval                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04a-estimation-Quarto.html) |
+| 10:45 - 11:45 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04a-visualize-data-Quarto.html)
 | 1:30 - 3:00 | Advanced Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04b-improve-dataviz.html)       |
 
 </div>
