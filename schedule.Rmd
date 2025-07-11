@@ -93,8 +93,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 9:00 - 10:30 | Hypothesis testing                        |[Slides](https://cosmos-datascience.github.io/slides/week01/05a-hypothesis-Quarto.html) |
-| 10:45 - 12:00 | Examining relationships |[Slides](https://cosmos-datascience.github.io/slides/week01/05b-hypothesis-Quarto.html)|
+| 9:00 - 10:30 | Hypothesis testing I                       |[Slides](https://cosmos-datascience.github.io/slides/week01/05a-hypothesis-Quarto.html) |
+| 10:45 - 12:00 | Hypothesis testing II |[Slides](https://cosmos-datascience.github.io/slides/week01/05b-hypothesis-Quarto.html)|
 | 1:00 - 2:00 | Inference using R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-05a-confint.html)|
 
 </div>
