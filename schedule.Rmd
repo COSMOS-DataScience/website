@@ -109,8 +109,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:30 | Introduction to linear regression  |[Slides](https://cosmos-datascience.github.io/slides/week02/01a-regression.html)|
-| 11:00 - 12:00 | Linear regression in R | [Slides](https://cosmos-datascience.github.io/slides/week02/Lab-01-linear-regression.html)|
+| 09:00 - 12:00 | Introduction to linear regression  |[Slides](https://cosmos-datascience.github.io/slides/week01/06-linear-regression-Quarto.html)|
 | 1:00 - 2:00 | Capstone projects         | |
 
 </div>
