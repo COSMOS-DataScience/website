@@ -29,10 +29,11 @@ knitr::opts_chunk$set(echo = FALSE)
 |---------------|------------------------------------|-------|
 | 09:00 - 09:30 | Welcome                            |[Slides](https://cosmos-datascience.github.io/slides/week01/01a-welcome.html)|
 | 09:35 - 10:30 | Introduction to data science    |[Slides](https://cosmos-datascience.github.io/slides/week01/01b-intro-data-science.html)|
-| 10:45 - 11:45 | Introduction to R    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01a-intro-R.html)|
-| 1:00 - 1:45 | Introduction to R Markdown    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01b-intro-rmarkdown.html) [Video](https://cosmos-datascience.github.io/slides/week01/Lab-01b-intro-rmarkdown.mp4)  |
-| 2:00 - 2:30 | Lab practice 01a    |[code](https://cosmos-datascience.github.io/slides/week01/Lab-01a-practice.Rmd)|
-| 2:30 - 3:00 | Lab practice 01b    |[code](https://cosmos-datascience.github.io/slides/week01/Lab-01b-practice.Rmd)|
+| 10:45 - 11:45 | Introduction to R |
+<!-- [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01a-intro-R.html) --> |
+| 1:00 - 1:45 | Introduction to R Quarto  |<!-- [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01b-intro-rmarkdown.html) [Video](https://cosmos-datascience.github.io/slides/week01/Lab-01b-intro-rmarkdown.mp4) --> 
+| 2:00 - 2:30 | Lab practice 01a    ||
+| 2:30 - 3:00 | Lab practice 01b    ||
 
 <!--
 | 2:00 - 3:00 | Introduction to GitHub    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01c-github.html)|
@@ -49,11 +50,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:30 | Describing data                            |[Slides](https://cosmos-datascience.github.io/slides/week01/02a-describe-data.html) |
-| 10:45 - 11:15 | R Packages    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02a-R-packages.html)|
-| 11:15 - 11:45 | Importing data               |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-import-data.html)  |
-| 1:00 - 2:00 | Tidyverse              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-intro-tidyverse.html)     |
-| 2:15 - 3:00 | Changing variables              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02d-change-variable.html)     |
+| 09:00 - 10:30 | Describing data                            |<!--[Slides]( https://cosmos-datascience.github.io/slides/week01/02a-describe-data.html )--> |
+| 10:45 - 11:15 | R Packages    |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02a-R-packages.html) -->|
+| 11:15 - 11:45 | Importing data               |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-import-data.html) --> |
+| 1:00 - 2:00 | Tidyverse              | <!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-intro-tidyverse.html)  -->   |
+| 2:15 - 3:00 | Changing variables              | <!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02d-change-variable.html) -->    |
 <!--
 |  | Additional practices              | [Code](https://cosmos-datascience.github.io/slides/week01/Lab-02b-import-data-solution.R)     |
 -->
@@ -66,8 +67,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:30 | Introduction to probability                            |[Slides](https://cosmos-datascience.github.io/slides/week01/03a-intro-prob.html)|
-| 10:45 - 12:00 | Data Wrangling         | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-03a-data-wrangling.html)|
+| 09:00 - 10:30 | Introduction to probability                            |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/03a-intro-prob.html)-->|
+| 10:45 - 12:00 | Data Wrangling         | <!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-03a-data-wrangling.html)-->|
 
 </div>
 		
@@ -79,9 +80,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:30 | Point estimation and confidence interval                        |[Slides](https://cosmos-datascience.github.io/slides/week01/04a-estimation-Quarto.html) |
-| 10:45 - 11:45 | Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04a-visualize-data-Quarto.html)
-| 1:30 - 3:00 | Advanced Data visualization in R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04b-improve-dataviz.html)       |
+| 09:00 - 10:30 | Point estimation and confidence interval                        |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/04a-estimation-Quarto.html) -->|
+| 10:45 - 11:45 | Data visualization in R |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04a-visualize-data-Quarto.html)-->
+| 1:30 - 3:00 | Advanced Data visualization in R |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-04b-improve-dataviz.html) -->      |
 
 </div>
 	
@@ -93,9 +94,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 9:00 - 10:30 | Hypothesis testing I                       |[Slides](https://cosmos-datascience.github.io/slides/week01/05a-hypothesis-Quarto.html) |
-| 10:45 - 12:00 | Hypothesis testing II |[Slides](https://cosmos-datascience.github.io/slides/week01/05b-hypothesis-Quarto.html)|
-| 1:00 - 2:00 | Inference using R |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-05a-confint.html)|
+| 9:00 - 10:30 | Hypothesis testing I                       |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/05a-hypothesis-Quarto.html)--> |
+| 10:45 - 12:00 | Hypothesis testing II |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/05b-hypothesis-Quarto.html)-->|
+| 1:00 - 2:00 | Inference using R |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-05a-confint.html)-->|
 
 </div>
 		
@@ -109,8 +110,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 12:00 | Introduction to linear regression  |[Slides](https://cosmos-datascience.github.io/slides/week01/06-linear-regression-Quarto.html)|
-| 1:00 - 2:00 | Capstone projects         | |
+| 09:00 - 12:00 | Introduction to linear regression  |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/06-linear-regression-Quarto.html)-->|
+| 1:00 - 2:00 |          | |
 
 </div>
 
@@ -120,7 +121,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 12:00 | Introduction to logistic regression  | [Slides](https://cosmos-datascience.github.io/slides/week02/02a-logit-Quarto.html) |
+| 09:00 - 12:00 | Introduction to logistic regression  | <!--[Slides](https://cosmos-datascience.github.io/slides/week02/02a-logit-Quarto.html) -->|
 </div>
 		
 
