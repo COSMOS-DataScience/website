@@ -50,11 +50,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | 09:00 - 9:30 | R Packages                            |[Slides]( https://cosmos-datascience.github.io/slides/week01/02a-R-packages.html ){target="_blank"} |
 | 09:30 - 10:00 | Data in R                            |[Slides]( https://cosmos-datascience.github.io/slides/week01/02b-R-Data.html ){target="_blank"} |
 | 10:20 - 11:45 | Describing data and EDA    |[Slides](https://cosmos-datascience.github.io/slides/week01/02c-EDA.html){target="_blank"}|
-| 1:00 - 2:00 | Tidyverse              | <!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-intro-tidyverse.html)  -->   |
-| 2:15 - 3:00 | Changing variables              | <!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02d-change-variable.html) -->    |
-<!--
-|  | Additional practices              | [Code](https://cosmos-datascience.github.io/slides/week01/Lab-02b-import-data-solution.R)     |
--->
+| 1:00 - 2:00 | Intro to Tidyverse              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-intro-tidyverse.html){target="_blank"}|
+| 2:15 - 3:00 | Intro to Data Wrangling              | [Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02d-intro-data-wrangling.html){target="_blank"}|
 </div>
 	
 	
