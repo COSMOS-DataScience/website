@@ -47,9 +47,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 10:30 | Data in R and Describing data                            |<!--[Slides]( https://cosmos-datascience.github.io/slides/week01/02a-describe-data.html )--> |
-| 10:45 - 11:15 | R Packages    |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02a-R-packages.html) -->|
-| 11:15 - 11:45 | Importing data               |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02b-import-data.html) --> |
+| 09:00 - 10:00 | R Packages                            |[Slides]( https://cosmos-datascience.github.io/slides/week01/02a-R-packages.html ) |
+| 10:15 - 11:45 | Data in R and Describing data    |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02a-R-packages.html) -->|
 | 1:00 - 2:00 | Tidyverse              | <!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-intro-tidyverse.html)  -->   |
 | 2:15 - 3:00 | Changing variables              | <!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02d-change-variable.html) -->    |
 <!--
