@@ -28,9 +28,9 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 09:30 | Welcome                            |[Slides](https://cosmos-datascience.github.io/slides/week01/01a-welcome.html)|
-| 09:35 - 10:30 | Introduction to data science    |[Slides](https://cosmos-datascience.github.io/slides/week01/01b-intro-data-science.html)|
-| 10:45 - 11:45 | Introduction to R, RStudio, and Quarto    |[Slides](https://cosmos-datascience.github.io/slides/week01/01c-intro-R.pdf)|
-| 1:00 - 3:00 | Lab practice |[Slides](https://cosmos-datascience.github.io/slides/week01/2026-qmds/Lab-1-intro-R.html)|
+| 09:35 - 10:30 | Introduction to data science    |[Slides](https://cosmos-datascience.github.io/slides/week01/01b-intro-data-science.html){target="_blank"}|
+| 10:45 - 11:45 | Introduction to R, RStudio, and Quarto    |[Slides](https://cosmos-datascience.github.io/slides/week01/01c-intro-R.pdf){target="_blank"}|
+| 1:00 - 3:00 | Lab practice |[Slides](https://cosmos-datascience.github.io/slides/week01/2026-qmds/Lab-1-intro-R.html){target="_blank"}|
 
 <!--
 | 2:00 - 3:00 | Introduction to GitHub    |[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-01c-github.html)|
@@ -48,7 +48,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 9:30 | R Packages                            |[Slides]( https://cosmos-datascience.github.io/slides/week01/02a-R-packages.html ){target="_blank"} |
-| 09:30 - 10:00 | R Packages                            |[Slides]( https://cosmos-datascience.github.io/slides/week01/02b-R-Data.html ){target="_blank"} |
+| 09:30 - 10:00 | Data in R                            |[Slides]( https://cosmos-datascience.github.io/slides/week01/02b-R-Data.html ){target="_blank"} |
 | 10:20 - 11:45 | Describing data and EDA    |<!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02a-R-packages.html) -->|
 | 1:00 - 2:00 | Tidyverse              | <!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02c-intro-tidyverse.html)  -->   |
 | 2:15 - 3:00 | Changing variables              | <!--[Slides](https://cosmos-datascience.github.io/slides/week01/Lab-02d-change-variable.html) -->    |
