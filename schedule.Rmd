@@ -61,7 +61,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 11:50 | Introduction to probability                           |[Slides](https://cosmos-datascience.github.io/slides/week01/03a-intro-prob.html)|
+| 09:00 - 11:50 | Introduction to probability                           |[Slides](https://cosmos-datascience.github.io/slides/week01/03a-intro-prob.html){target="_blank"}|
 </div>
 		
 
