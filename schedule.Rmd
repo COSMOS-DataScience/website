@@ -114,7 +114,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 12:00 | Introduction to logistic regression  | <!--[Slides](https://cosmos-datascience.github.io/slides/week02/02a-logit-Quarto.html) -->|
+| 09:00 - 12:00 | Introduction to logistic regression  | [Slides](https://cosmos-datascience.github.io/slides/week02/02a-logistic-regression.html){target="_blank"}|
+| 1:00 - 3:00 | Logistic Regression Lab  | [Slides](https://cosmos-datascience.github.io/slides/week02/Lab-02-logistic-regression.html){target="_blank"}|
+
 </div>
 		
 
