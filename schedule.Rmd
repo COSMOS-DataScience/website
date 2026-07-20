@@ -119,8 +119,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 		
+<button class="accordion">  &#9679;   &#9679; Advanced Topics </button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+|  | Introduction to Survival Analysis  | [Slides](https://cosmos-datascience.github.io/slides/week02/AdvancedTopic-survival.html){target="_blank"}|
 
 
+</div>
 	
 	
 ```{r}
