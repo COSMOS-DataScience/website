@@ -125,6 +125,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 |  | Introduction to Survival Analysis  | [Slides](https://cosmos-datascience.github.io/slides/week02/AdvancedTopic-survival.html){target="_blank"}|
+|  | Introduction to Tree Models  | [Slides](https://cosmos-datascience.github.io/slides/week02/AdvancedTopic_tree_models.html){target="_blank"}|
 
 
 </div>
